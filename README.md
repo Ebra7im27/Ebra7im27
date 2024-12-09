@@ -28,3 +28,4 @@
 <a href="www.linkedin.com/in/ebrahim-elngar-6860a2333" target="_blank"><img src="https://img.shields.io/badge/-Ebrahim%20Elngar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/ebrahim.elngar.98/" target="_blank"><img src="https://img.shields.io/badge/-Ebrahim%20Elngar-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/Ebrahim_elngar" target="_blank"><img src="https://img.shields.io/badge/-Ebrahim%20Elngar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/201068054735" target="_blank"><img src="https://img.shields.io/badge/-Ebrahim%20Elngar-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
