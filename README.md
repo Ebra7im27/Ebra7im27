@@ -7,7 +7,7 @@
 ###
 
 ![Ebra7im27's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebra7im27&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebra7im27&layout=compact&theme=radical&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebra7im27&layout=compact&theme=radical&card_height=400)
 
 ###
 
