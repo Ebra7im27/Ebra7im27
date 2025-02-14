@@ -6,6 +6,10 @@
 
 ###
 
+![Ebra7im27's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebra7im27&show_icons=true&theme=radical&hide_title=true&count_private=true) 
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
